@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4DDB6B14-ABA1-41A0-93B1-2C0F853057B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>WILLIAM_DonkeyKong.My.MyApplication</StartupObject>
+    <RootNamespace>WILLIAM_DonkeyKong</RootNamespace>
+    <AssemblyName>WILLIAM_DonkeyKong</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>WILLIAM_DonkeyKong.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>WILLIAM_DonkeyKong.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gameoverform.Designer.vb">
+      <DependentUpon>gameoverform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="gameoverform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mariostuff.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="YouDieForm.Designer.vb">
+      <DependentUpon>YouDieForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YouDieForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YouWinForm.Designer.vb">
+      <DependentUpon>YouWinForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YouWinForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gameoverform.resx">
+      <DependentUpon>gameoverform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YouDieForm.resx">
+      <DependentUpon>YouDieForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YouWinForm.resx">
+      <DependentUpon>YouWinForm.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbDancing.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbDancing2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbGettingBarrel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbHoldingBarrel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbRollingBarrel.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbSmiling.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BobbStanding.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coinv2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explode1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explode2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\explode3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hammerLeftSmasher1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hammerLeftSmasher2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hammerRightSmasher1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hammerRightSmasher2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ladder.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ladyInDistress.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\level1-background.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lives.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiClimb1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiClimb2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiClimb3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LuigiClimbTop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiLeftFloat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiLeftMove1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiLeftMove2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiLeftMove3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiRightFloat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiRightMove1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiRightMove2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\luigiRightMove3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioClimb1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioClimb2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioClimb3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MarioClimbTop1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioDead.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftFloat.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftMove1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftMove2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftMove3.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftSmash1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftSmash2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftSmasher1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioLeftSmasher2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioRightFloat.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioRightMove1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioRightMove2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioRightMove3.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioRightSmasher1.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioRightSmasher2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marioSpin.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PIKACHU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barrel1.JPG" />
+    <None Include="Resources\barrel2.JPG" />
+    <None Include="Resources\barrel3.JPG" />
+    <None Include="Resources\barrel4.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

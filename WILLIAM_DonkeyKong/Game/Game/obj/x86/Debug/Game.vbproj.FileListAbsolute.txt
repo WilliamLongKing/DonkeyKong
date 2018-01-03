@@ -1,0 +1,10 @@
+C:\Users\RP4K\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\RP4K\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\RP4K\Desktop\Game\Game\bin\Debug\Game.xml
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\Game.MainMenu.resources
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\Game.Resources.resources
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\Game.exe
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\Game.xml
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\Game.pdb
+C:\Users\RP4K\Desktop\Game\Game\obj\x86\Debug\Game.Game.resources

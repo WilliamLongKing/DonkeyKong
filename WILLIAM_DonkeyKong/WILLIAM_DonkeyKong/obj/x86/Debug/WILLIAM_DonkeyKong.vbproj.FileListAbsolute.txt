@@ -1,0 +1,70 @@
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.exe
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.pdb
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.xml
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.Resources.resources
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.exe
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.xml
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.pdb
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.MainForm.resources
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.exe
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.xml
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.pdb
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.exe
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.pdb
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.xml
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.MainForm.resources
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.Resources.resources
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.exe
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.xml
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.pdb
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.MainForm.resources
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.Resources.resources
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.exe
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.pdb
+F:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.xml
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.exe
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.xml
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.pdb
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.exe
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.pdb
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.xml
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.MainForm.resources
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.Resources.resources
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.exe
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.xml
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.pdb
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.exe
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.pdb
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.xml
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.MainForm.resources
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.Resources.resources
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\New Folder\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.YouDieForm.resources
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.YouWinForm.resources
+C:\Users\RP4K\Desktop\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.gameoverform.resources
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.gameoverform.resources
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.YouDieForm.resources
+E:\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.YouWinForm.resources
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.exe
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.pdb
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\bin\Debug\WILLIAM_DonkeyKong.xml
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.vbprojResolveAssemblyReference.cache
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.MainForm.resources
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.gameoverform.resources
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.Resources.resources
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.YouDieForm.resources
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.YouWinForm.resources
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.vbproj.GenerateResource.Cache
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.exe
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.xml
+C:\Users\willi\Documents\Programming\RP4K\WILLIAM_DonkeyKong\WILLIAM_DonkeyKong\obj\x86\Debug\WILLIAM_DonkeyKong.pdb
